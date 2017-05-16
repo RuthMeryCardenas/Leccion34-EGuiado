@@ -26,3 +26,9 @@ th, td {
 .mt-62 {
   margin-top: 62px;
 }
+.text-bold {
+  font-weight: bold;
+}
+.text-resize {
+  font-size: 1.25em;
+}
