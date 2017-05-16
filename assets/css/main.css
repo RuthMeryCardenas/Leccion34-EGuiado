@@ -1,0 +1,28 @@
+@import "https://fonts.googleapis.com/css?family=Josefin+Sans";
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+}
+a {
+  color: gray;
+}
+th, td {
+  border: 1px solid #CCCCCC;
+  padding: 1%;
+}
+/*Utilities Customize*/
+.bg-gray-low {
+  background-color: #EEEEEE;
+}
+.bg-white {
+  background-color: #FFFFFF;
+}
+.bold-600 {
+  font-weight: 600;
+}
+.padding-2-per {
+  padding: 2%;
+}
+.mt-62 {
+  margin-top: 62px;
+}
